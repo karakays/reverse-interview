@@ -38,13 +38,10 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 
 # The Role
 
-- What's the on-call plan/schedule? (what's the pay for standby and call-out)
-- What are the tasks I would do on a usual day?
-- Are there any specific goals for me?
-- What's the junior/senior balance of the team? (and are there plans to change it)
+- What type of tech roles are in the company?
+- What's the junior/senior balance of the development team? (and are there plans to change it)
 - What does the onboarding look like?
 - How much freedom for decision making do individual developers have?
-- What are the expected/core work hours?
 - What is your definition of success for this role?
 - What do you expect me to accomplish in the first 1 month/3 months?
 - How will you evaluate my performance at the end of the trial period?
@@ -52,49 +49,57 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - Do you have any concerns about my application?
 - Tell me about who I would be working most closely with.
 - What management style does my immediate manager and their manager have? (from micro- to macro-)
+
 - How can I develop in my new role / what opportunities are offered?
+- What are the expected/core work hours?
+- Are there any specific goals for me?
+- What's the on-call plan/schedule? (what's the pay for standby and call-out)
+- What are the tasks I would do on a usual day?
 
 # Tech
 
 - What are the usual stacks used at the company?
-- How do you use source control?
-- How do you test code?
-- How do you track bugs?
+- Do you use issue tracker? Do you have definition of done for issues?
+- How can you describe end-to-end SDLC?
+- Who is responsible for doing deployment? How often do you deploy?
+- How do you manage internal / external artifacts?
+- How do you manage dependencies?
+- Do you use source control? Do you perform code reviews?
+- Is your infrastructure setup under version control / available as code?
+- How do you test code? Do you measure test coverage? Do you have any thresholds?
+- Are all developers allowed to have local admin access of their computers?
 - How do you monitor projects?
 - How do you integrate and deploy changes? Is it CI/CD?
-- Is your infrastructure setup under version control / available as code?
+- Do you have a developer documentation for your code? Do you have a separate documentation for customers?
+
 - What's the workflow from the planning to the finished task?
 - How do you prepare for disaster recovery?
 - Is there a standardised development environment? Is it enforced?
 - How quickly can you setup a new local test environment for the product? (minutes / hours / days)
 - How quickly can you respond to security issues in the code or dependencies?
-- Are all developers allowed to have local admin access of their computers?
 - Tell me about your technical principles or vision.
-- Do you have a developer documentation for your code? Do you have a separate documentation for customers?
 - Do you have some higher level documentation? (ER diagrams, database schema)
 - Do you employ static code analysis?
-- How do you manage internal / external artifacts?
-- How do you manage dependencies?
 
 # The Team
 
 - How is the work organised?
 - How does the intra/inter-team communication typically work?
+- What kind of meetings happen every week?
+- Would there be a regular 1-on-1 with my manager?
+- How do you balance technical vs business goals?
+
 - Do you use any tools for project organization? What is your experience with them?
 - How are differences of opinions resolved?
 - Who sets the priorities / schedule?
 - What happens after pushback? ("this can't be done in the projected time")
 - What happens when the team misses a release target?
-- What kind of meetings happen every week?
-- Would there be a regular 1-on-1 with my manager?
 - What's the product/service schedule? (n-weekly releases / continuous deployment / multiple release streams / ...)
 - What happens after production incidents? Is there a culture of blameless analysis?
 - What are some ongoing challenges the team is experiencing that you are yet to resolve?
 - How do you track progress?
 - How are expectations and goals set, and who does the setting?
-- What does a code review look like here?
 - Walk me through a typical sprint on this team
-- How do you balance technical vs business goals?
 - How do you share knowledge?
 - How big are the teams?
 
@@ -108,12 +113,15 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 
 # The Company
 
-- Why is the company hiring? (product growth / new product / fluctuation / ...)
 - Is there a conference/travel budget and what are the rules to use it?
+- Do you have budget for 3rd party tools?
+- Are there any company-wide resources for learning available, like ebooks subscriptions, or online courses?
+- Does the company support open-source projects?
+
+- Why is the company hiring? (product growth / new product / fluctuation / ...)
 - What's the promotion process? How are requirements / expectations communicated?
 - What is the performance review process like?
 - Is there a separate tech and management career path?
-- Are there any company-wide resources for learning available, like ebooks subscriptions, or online courses?
 - Is there a budget for getting certifications?
 - What's the maturity stage? (early finding direction / feature work / maintenance / ...)
 - Can I contribute to FOSS projects? Are there any approvals needed?
@@ -124,7 +132,10 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - What does it mean to be successful here, and how do you measure success?
 - Is there a Sports / Team building Activity?
 - Are there any Hackathons conducted internally?
-- Does the company support open-source projects?
+
+# Culture
+
+- How do you determine if someone is a poor fit for your company?
 
 # Social issues
 
